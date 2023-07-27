@@ -579,3 +579,4 @@ export declare interface IGradientDef {
   /** GradientDef gradientFunc */
   gradientFunc?: (string|null);
 }
+//testing with copybara file
